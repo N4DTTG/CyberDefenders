@@ -6,7 +6,8 @@
 You are part of the incident response team at FinTrust Bank. This morning, the network monitoring system flagged unusual outbound traffic patterns from several workstations. Preliminary analysis by the IT department has identified a potential compromise linked to an exploited vulnerability in WinRAR software.
 
 > **Artifact:** `C125-SpottedInTheWild.vhd`
-> A `.vhd` file is a disk image that replicates a physical hard drive. It acts like a real hard drive, containing partitions and a file system. We can parse its data using Autopsy.
+
+A `.vhd` file is a disk image that replicates a physical hard drive. It acts like a real hard drive, containing partitions and a file system. We can parse its data using Autopsy.
 
 <br>
 
