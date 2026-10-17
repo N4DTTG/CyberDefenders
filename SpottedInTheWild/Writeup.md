@@ -1,5 +1,5 @@
 <div align="center">
-<h1>SpottedInTheWild — Endpoint Forensics - Hard</h1>
+<h1>SpottedInTheWild - Endpoint Forensics - Hard</h1>
 </div>
 
 ##  Scenario
